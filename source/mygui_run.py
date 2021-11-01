@@ -2,7 +2,6 @@ import os
 import sys
 import PyQt5
 from PyQt5.QtWidgets import QApplication
-os.chdir('C:/Users/chris/Desktop/JM-imgs/source')
 from mygui_setupWindow import *
 
 if __name__ == '__main__':
