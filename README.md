@@ -8,6 +8,7 @@ CTC-Quant is an application customised to quantify CTC subtypes including epithe
   conda install -n ctcquant-env scipy=1.5.2 \
   conda install -n ctcquant-env -c free scikit-image=0.17.2 \
   conda install -n ctcquant-env -c free scikit-learn=0.23.2 \
+  conda install -n ctcquant-env -c conda-forge matplotlib \
   conda install -n ctcquant-env pickle5 \
   conda install -n ctcquant-env pyqt
 
