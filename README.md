@@ -16,4 +16,4 @@ CTC-Quant is an application customised to quantify CTC subtypes including epithe
   conda activate ctcquant-env
   
 **To deactivate the environment:** \
-  source deactivate
+  conda deactivate
