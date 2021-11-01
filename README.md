@@ -8,12 +8,12 @@ CTC-Quant is an application customised to quantify CTC subtypes including epithe
   conda activate ctcquant-env
 
 **To install required packages:** \
-  pip install pyqt5
-  pip install numpy==1.16
-  pip install matplotlib==3.3.4
-  pip install pandas==1.1.3
-  pip install scipy==1.5.2
-  pip install scikit-image==0.17.2
+  pip install pyqt5 \
+  pip install numpy==1.16 \
+  pip install matplotlib==3.3.4 \
+  pip install pandas==1.1.3 \
+  pip install scipy==1.5.2 \
+  pip install scikit-image==0.17.2 \
   pip install scikit-learn==0.23.2
   
 **Navigate to source code directory:** \
